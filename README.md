@@ -10,6 +10,8 @@ https://github.com/kriasoft/react-firebase-starter
 
 This is based on tutorial by: http://leanpub.com/the-road-to-react-with-firebase
 
-if you still think want to run this make sure you populate the .env file with your firebase configuration
-`yarn install`
-`yarn build`
+# if you still think want to run this 
+
+1. Make sure you populate the .env file with your firebase configuration
+2. `yarn install`
+3. `yarn build`
