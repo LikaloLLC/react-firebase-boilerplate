@@ -16,7 +16,7 @@ This is just some copy pasted code based on tutorial by: http://leanpub.com/the-
 2. `yarn install`
 3. `yarn build`
 
- .env
+ .env <br />
 REACT_APP_API_KEY=xxxx <br />
 REACT_APP_AUTH_DOMAIN=xxxx <br />
 REACT_APP_DATABASE_URL=xxxx <br />
