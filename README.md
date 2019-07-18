@@ -8,7 +8,7 @@ Instead of using this you should look into boilerplates which IMHO are much bett
 2. https://github.com/kriasoft/react-firebase-starter
 
 
-This is based on tutorial by: http://leanpub.com/the-road-to-react-with-firebase
+This is just some copy pasted code based on tutorial by: http://leanpub.com/the-road-to-react-with-firebase
 
 # if you still think want to run this 
 
