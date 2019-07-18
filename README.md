@@ -12,6 +12,17 @@ This is just some copy pasted code based on tutorial by: http://leanpub.com/the-
 
 # if you still think want to run this 
 
-1. Make sure you populate the .env file with your firebase configuration
+1. Make sure you create and populate the .env file with your firebase configuration
 2. `yarn install`
 3. `yarn build`
+
+` .env
+REACT_APP_API_KEY=xxxx
+REACT_APP_AUTH_DOMAIN=xxxx
+REACT_APP_DATABASE_URL=xxxx
+REACT_APP_PROJECT_ID=xxxx
+REACT_APP_STORAGE_BUCKET=xxxx
+REACT_APP_MESSAGING_SENDER_ID=xxxx
+REACT_APP_ID=xxxxx
+REACT_APP_CONFIRMATION_EMAIL_REDIRECT=xxxxx
+`
