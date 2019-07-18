@@ -1,4 +1,4 @@
-#You shouldn't use this
+# You shouldn't use this!
 There are many great react firebase boilerplates out there. 
 I just needed something simple that I can maintain and use for creation of Docsie plugins. 
 
