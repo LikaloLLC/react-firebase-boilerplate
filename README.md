@@ -17,12 +17,12 @@ This is just some copy pasted code based on tutorial by: http://leanpub.com/the-
 3. `yarn build`
 
 ` .env
-REACT_APP_API_KEY=xxxx . 
-REACT_APP_AUTH_DOMAIN=xxxx . 
-REACT_APP_DATABASE_URL=xxxx . 
-REACT_APP_PROJECT_ID=xxxx . 
-REACT_APP_STORAGE_BUCKET=xxxx . 
-REACT_APP_MESSAGING_SENDER_ID=xxxx . 
-REACT_APP_ID=xxxxx . 
-REACT_APP_CONFIRMATION_EMAIL_REDIRECT=xxxxx . 
+REACT_APP_API_KEY=xxxx <br />
+REACT_APP_AUTH_DOMAIN=xxxx <br />
+REACT_APP_DATABASE_URL=xxxx <br />
+REACT_APP_PROJECT_ID=xxxx <br /> 
+REACT_APP_STORAGE_BUCKET=xxxx <br />
+REACT_APP_MESSAGING_SENDER_ID=xxxx <br />
+REACT_APP_ID=xxxxx <br />
+REACT_APP_CONFIRMATION_EMAIL_REDIRECT=xxxxx <br />
 `
